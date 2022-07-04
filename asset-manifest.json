@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ganesh-p03.github.io/csb-6y9cl9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ganesh-p03.github.io/csb-6y9cl9/static/js/main.5e83d582.chunk.js",
+    "main.js.map": "https://ganesh-p03.github.io/csb-6y9cl9/static/js/main.5e83d582.chunk.js.map",
+    "runtime-main.js": "https://ganesh-p03.github.io/csb-6y9cl9/static/js/runtime-main.e0482377.js",
+    "runtime-main.js.map": "https://ganesh-p03.github.io/csb-6y9cl9/static/js/runtime-main.e0482377.js.map",
+    "static/js/2.87c4b056.chunk.js": "https://ganesh-p03.github.io/csb-6y9cl9/static/js/2.87c4b056.chunk.js",
+    "static/js/2.87c4b056.chunk.js.map": "https://ganesh-p03.github.io/csb-6y9cl9/static/js/2.87c4b056.chunk.js.map",
+    "index.html": "https://ganesh-p03.github.io/csb-6y9cl9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ganesh-p03.github.io/csb-6y9cl9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.87c4b056.chunk.js.LICENSE.txt": "https://ganesh-p03.github.io/csb-6y9cl9/static/js/2.87c4b056.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0482377.js",
+    "static/js/2.87c4b056.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5e83d582.chunk.js"
+  ]
+}
